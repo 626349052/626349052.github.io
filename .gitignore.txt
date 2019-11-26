@@ -1,12 +1,14 @@
 # Build results
 
-[Dd]ebug/
-
-x64/
-
-x86/
-
+[Dd]ebug
+/
+x64
+/
+x86
+/
 .vs/
+
+
 
 # Files built by Visual Studio
 
